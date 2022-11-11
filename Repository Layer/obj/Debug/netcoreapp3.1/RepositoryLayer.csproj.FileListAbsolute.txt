@@ -1,0 +1,16 @@
+E:\Akhil\ASP.NET Project\Repository Layer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+E:\Akhil\ASP.NET Project\Repository Layer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.json
+E:\Akhil\ASP.NET Project\Repository Layer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.dev.json
+E:\Akhil\ASP.NET Project\Repository Layer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+E:\Akhil\ASP.NET Project\Repository Layer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+E:\Akhil\ASP.NET Project\Repository Layer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+E:\Akhil\ASP.NET Project\Repository Layer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\Akhil\ASP.NET Project\Repository Layer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+E:\Akhil\ASP.NET Project\Repository Layer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Akhil\ASP.NET Project\Repository Layer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+E:\Akhil\ASP.NET Project\Repository Layer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+E:\Akhil\ASP.NET Project\Repository Layer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+E:\Akhil\ASP.NET Project\Repository Layer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+E:\Akhil\ASP.NET Project\Repository Layer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+E:\Akhil\ASP.NET Project\Repository Layer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+E:\Akhil\ASP.NET Project\Repository Layer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache

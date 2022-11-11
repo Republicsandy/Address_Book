@@ -1,0 +1,15 @@
+E:\Akhil\ASP.NET Project\Business Layer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+E:\Akhil\ASP.NET Project\Business Layer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\Akhil\ASP.NET Project\Business Layer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\Akhil\ASP.NET Project\Business Layer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+E:\Akhil\ASP.NET Project\Business Layer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+E:\Akhil\ASP.NET Project\Business Layer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+E:\Akhil\ASP.NET Project\Business Layer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\Akhil\ASP.NET Project\Business Layer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+E:\Akhil\ASP.NET Project\Business Layer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Akhil\ASP.NET Project\Business Layer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\Akhil\ASP.NET Project\Business Layer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\Akhil\ASP.NET Project\Business Layer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Akhil\ASP.NET Project\Business Layer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+E:\Akhil\ASP.NET Project\Business Layer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\Akhil\ASP.NET Project\Business Layer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

@@ -1,0 +1,10 @@
+E:\Akhil\ASP.NET Project\Common Layer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+E:\Akhil\ASP.NET Project\Common Layer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+E:\Akhil\ASP.NET Project\Common Layer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\Akhil\ASP.NET Project\Common Layer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.AssemblyReference.cache
+E:\Akhil\ASP.NET Project\Common Layer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Akhil\ASP.NET Project\Common Layer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+E:\Akhil\ASP.NET Project\Common Layer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+E:\Akhil\ASP.NET Project\Common Layer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+E:\Akhil\ASP.NET Project\Common Layer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+E:\Akhil\ASP.NET Project\Common Layer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
